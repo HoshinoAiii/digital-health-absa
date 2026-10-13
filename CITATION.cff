@@ -5,7 +5,6 @@ type: software
 authors:
   - family-names: "Yu"
     given-names: "Jingyi"
-    # ↑ 请改成你自己的姓名（拼音或中文均可）
 version: "1.0.0"
 date-released: "2026-10-13"
 license: MIT
