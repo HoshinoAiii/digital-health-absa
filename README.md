@@ -163,7 +163,7 @@ If you use this code or data, please cite the paper (see `CITATION.cff`):
 ```bibtex
 @misc{digitalhealth_absa,
   title  = {Code and data for "Aspect-Based Sentiment Analysis of Digital-Health Platform User Experience based on BERT-BiLSTM-Attention"},
-  author = {<authors>},
+  author = {Yu, Jingyi}、doi = {10.5281/zenodo.23347005},
   year   = {2026},
   note   = {Zenodo/GitHub release}
 }
