@@ -3,8 +3,8 @@ title: "Code and data for: Aspect-Based Sentiment Analysis of Digital-Health Pla
 message: "If you use this code or data, please cite it as below."
 type: software
 authors:
-  - family-names: "作者姓"
-    given-names: "作者名"
+  - family-names: "Yu"
+    given-names: "Jingyi"
     # ↑ 请改成你自己的姓名（拼音或中文均可）
 version: "1.0.0"
 date-released: "2026-10-13"
@@ -17,4 +17,4 @@ keywords:
   - attention
   - app reviews
   - digital health
-repository-code: "https://github.com/<你的用户名>/digital-health-absa"
+repository-code: "https://github.com/HoshinoAiii/digital-health-absa"
