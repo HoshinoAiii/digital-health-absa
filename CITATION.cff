@@ -5,7 +5,8 @@ type: software
 authors:
   - family-names: "Yu"
     given-names: "Jingyi"
-version: "1.0.0"
+version: "1.0.1"
+xdoi: "10.5281/zenodo.23347005"
 date-released: "2026-10-13"
 license: MIT
 keywords:
